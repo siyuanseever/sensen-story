@@ -22,14 +22,14 @@
 
 ## 截图
 
-<!-- TODO: 手机截图到位后放这里。文件放 docs/screenshots/，用新的手机界面，不要用真实库的心情和聊天内容。
-
 <p>
-  <img src="docs/screenshots/phone-home.png" width="240">
-  <img src="docs/screenshots/phone-chat.png" width="240">
-  <img src="docs/screenshots/phone-memory.png" width="240">
+  <img src="assets/phone-home.jpg" width="220" alt="手机首页">
+  <img src="assets/phone-storybook.jpg" width="220" alt="森林绘本">
 </p>
--->
+
+<img src="assets/mac-home.jpg" width="640" alt="Mac 首页">
+
+完整展示页：https://siyuanseever.github.io/sensen-story/
 
 ***
 
